@@ -1,0 +1,13 @@
+# User-specific stuff:
+.idea
+
+# System Files
+.DS_Store
+Thumbs.db
+src/files/env.properties
+
+build/
+out/
+
+.gradle/
+*.iml
